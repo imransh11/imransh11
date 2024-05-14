@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Shaukat.</h1>
-<h3 align="center">A passionate and hardworking Software Engineer from Aberdeen Township, New Jersey.</h3>
+<h3 align="center">A passionate Software Engineer from Aberdeen Township, New Jersey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imransh11&label=Profile%20views&color=0e75b6&style=flat" alt="imransh11" /> </p>
 
