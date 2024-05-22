@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imransh11" alt="imransh11" /></a> </p>
 
-- 🔭 I’m currently working on [Activities (Capston Project)](https://activities-i8p9.onrender.com)
+- 🔭 I’m currently working on [Activities (Capstone Project)](https://activities-i8p9.onrender.com), and [Airbnb-clone Project](https://airbnb-clone-pgrh.onrender.com)
+  
+- 👀 My Capstone Project in on my second [GitHub account](https://github.com/imsh11)
 
 - 🌱 I’m currently learning **AWS**
 
